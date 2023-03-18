@@ -10,6 +10,7 @@ public class Main {
         human1.isArmenia = true;
         human1.year = 1992;
         human1.year = 78787;
+        human1.year = 78787;
 
 
         Human human2 = new Human();
