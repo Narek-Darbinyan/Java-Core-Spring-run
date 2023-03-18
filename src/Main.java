@@ -17,6 +17,7 @@ public class Main {
         human2.gender = 'f';
         human2.isArmenia = true;
         human2.year = 1993;
+        human2.year= 1666;
 
         System.out.println(human1.firstName + " " + human1.lastName);
         System.out.println(human1.year < human2.year ? human1.firstName : human1.firstName);
